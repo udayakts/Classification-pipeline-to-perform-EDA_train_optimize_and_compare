@@ -12,7 +12,7 @@ This code performs a basic exploratory analysis
 This code performs tarining different classifiers, cross-validating to check model performance, optimizing hyper-parameters.
 Finally, cross validation is performed again but with best_model parametrs to be able to compare with the previous values.
 
-![](file:///Users/udayts/Documents/Uday/Spiced_academy/unsupervised-lemon-student-code/week02/forgithub/Titanic_sinking_gif.gif)
+![](Titanic_sinking_gif.gif)
 
 
 ## License
