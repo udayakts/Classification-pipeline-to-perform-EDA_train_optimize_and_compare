@@ -1,5 +1,5 @@
 
-# ML Pipeline: EDA, model training, hyper-parameter optimization and model comparison
+# Classification ML Pipeline: EDA, model training, hyper-parameter optimization and model comparison
 
 Machine learning skills are applied to predict survivals in the Titanic data.
 Codes include data exploration/analysis, data preprocessing, feature engineering, building ML models, cross-validation, hyperparameter tuning and comparing the models.
